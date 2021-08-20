@@ -9,10 +9,14 @@ This challenge tested our knowledge of creating and manipulating tables in SQL. 
 - This company has a significant number of employees nearing retirement age. The unique_titles table shows there are well over 10,000 employees who were born between 1952 and 1955.
 
 - Senior Engineers and Senior Staff will most likely make up the majority of positions seeing employees retire. The image below shows over 50,000 employees with those position titles were in the target age range.
+- 
+![dept_count](https://user-images.githubusercontent.com/85756203/130163742-74972b74-bdb6-47e4-a0a1-f4526cb11873.png)
 
 - The same image shows management will see minimal turnover as only two employees are closing in on retirement.
 
 - The employee mentorship program has slightly under 2,000 eligible employees. Many of whom are in the Engineering and Staff departments.
+
+![mentorship_table](https://user-images.githubusercontent.com/85756203/130163709-87167338-f733-4034-a2bf-1fd59c7873e6.png)
 
 ## Summary
 
